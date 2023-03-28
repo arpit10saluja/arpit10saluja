@@ -13,8 +13,15 @@
 
  🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://arpit10saluja.github.io/](https://arpit10saluja.github.io/)
+- 👨‍💻 All of my projects are available at [https://aaka8566.github.io/]()
 
 - 💬 Ask me about **React, Redux, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **arpitsaluja1234@gmail.com**
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Arpit_Saluja10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash8566" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arpitsaluja1234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash-chakravarty-16b438141/" height="30" width="40" /></a>
