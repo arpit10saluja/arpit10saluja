@@ -9,4 +9,12 @@
 <h3 align="center">A aspiring and self motivated full stack web developer with expertise in creating ready to use code and having 1200+ hours of coding experience. Team collaborator with good interpersonal skills, Looking for a challenging role in a growth oriented organisation.</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivammchaudhary1&label=Profile%20views&color=0e75b6&style=flat" alt="shivammchaudhary1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit10saluja&label=Profile%20views&color=0e75b6&style=flat" alt="arpit10saluja" /> </p>
+
+ 🌱 I’m currently learning **Redux**
+
+- 👨‍💻 All of my projects are available at [https://arpit10saluja.github.io/](https://arpit10saluja.github.io/)
+
+- 💬 Ask me about **React, Redux, HTML, CSS, JavaScript**
+
+- 📫 How to reach me **arpitsaluja1234@gmail.com**
