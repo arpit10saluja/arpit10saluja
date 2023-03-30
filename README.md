@@ -13,7 +13,7 @@
 
  🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://arpit10saluja.github.io/](https://github.com/arpit10saluja)
+- 👨‍💻 All of my projects are available at [https://arpit10saluja.github.io/](https://arpit10saluja.github.io/)
 
 - 💬 Ask me about **React, Redux, HTML, CSS, JavaScript**
 
