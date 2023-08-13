@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Kumar</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit10saluja&theme=gotham" alt="arpit10saluja" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit10saluja&label=Profile%20views&color=0e75b6&style=flat" alt="arpit10saluja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpit10saluja" alt="arpit10saluja" /></a> </p>
 
